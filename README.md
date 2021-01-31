@@ -46,3 +46,4 @@ cout<<"among a few";
     return 0;
 }
 ```
+#C++ code for hobbies
